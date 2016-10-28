@@ -1,4 +1,6 @@
-# Kover
+<img src="http://graal.ift.ulaval.ca/adrouin/kover.png" height="50" />
+
+
 Learn interpretable computational phenotyping models from k-merized genomic data
 
 ## Peer review
